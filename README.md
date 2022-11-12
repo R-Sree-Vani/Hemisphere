@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+Physical Location of the user
+
+Step 1: Clone the repo
+
+Step 2: Open it in the vs code editor(or any other editor)
+
+Step 3: Open the terminal
+
+Step 4: Type the Command "npm start"
+
+Step 5: The brower opens automatically if not open the browser and type localhost:3000 and press enter
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ -->
